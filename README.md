@@ -1,6 +1,7 @@
 # hello-world
 learning to git
 
-edited this line for a conflict!tinker tailor soldier spy
+tinker tailor soldier spy
 
-added this line as bonus
+Do I like this version?
+
